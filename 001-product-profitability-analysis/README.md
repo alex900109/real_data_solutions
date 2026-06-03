@@ -55,7 +55,6 @@ This system solves that problem automatically.
 ├── data/
 ├── output/
 ├── screenshots/
-├── assets/
 ├── src/
 └── README.md
 ```
@@ -75,13 +74,29 @@ python src/profitability_analysis.py
 
 The system generates an Excel file with:
 
-- Profitability Summary
-- Top Products
-- Low Margin Products
-- Detected Patterns
-- Executive Conclusions
-- General Statistics
-- Charts
+### Profitability Summary
+
+![Profitability Summary](screenshots/profitability_summary.png)
+
+### Top Products
+
+![Top Products](screenshots/top_products.png)
+
+### Low Margin Products
+
+![Low Margin Products](screenshots/low_margin_products.png)
+
+### Detected Patterns
+
+![Detected Patterns](screenshots/detected_patterns.png)
+
+### Executive Conclusions
+
+![Executive Conclusions](screenshots/executive_conclusions.png)
+
+### Charts
+
+![Charts](screenshots/charts.png)
 
 ---
 
@@ -97,10 +112,9 @@ It is a **business intelligence automation system** that turns raw sales data in
 
 Watch the full implementation here:
 
-https://youtube.com/@Real_DataSolutions
+[https://youtube.com/@Real_DataSolutions](https://youtu.be/U_3MygqHUI0)
 
 ---
 
 ## 📌 Author
-
-Real Data Solutions
+Alex Gil
