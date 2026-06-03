@@ -112,10 +112,9 @@ It is a **business intelligence automation system** that turns raw sales data in
 
 Watch the full implementation here:
 
-https://youtube.com/@Real_DataSolutions
+[https://youtube.com/@Real_DataSolutions](https://youtu.be/U_3MygqHUI0)
 
 ---
 
 ## 📌 Author
-
-Real Data Solutions
+Alex Gil
