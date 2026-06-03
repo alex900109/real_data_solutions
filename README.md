@@ -1,7 +1,6 @@
 # Real Data Solutions
 
-🎥 YouTube Channel:
-https://youtube.com/@RealDataSolutions
+🎥 YouTube Channel: https://youtube.com/@Real_DataSolutions
 
 Real-world software development, automation, and data analysis projects.
 
