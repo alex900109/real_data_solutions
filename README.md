@@ -1,5 +1,8 @@
 # Real Data Solutions
 
+🎥 YouTube Channel:
+https://youtube.com/@RealDataSolutions
+
 Real-world software development, automation, and data analysis projects.
 
 This repository contains all projects featured on the Real Data Solutions YouTube channel.
