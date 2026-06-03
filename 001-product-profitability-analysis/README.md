@@ -96,7 +96,7 @@ The system generates an Excel file with:
 
 ### Charts
 
-![Charts](screenshots/chart.png)
+![Charts](screenshots/charts.png)
 
 ---
 
