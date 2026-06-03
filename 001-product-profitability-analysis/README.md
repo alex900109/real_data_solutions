@@ -55,7 +55,6 @@ This system solves that problem automatically.
 ├── data/
 ├── output/
 ├── screenshots/
-├── assets/
 ├── src/
 └── README.md
 ```
