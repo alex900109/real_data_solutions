@@ -84,6 +84,44 @@ The system generates an Excel file with:
 
 ---
 
+## 📸 Report Preview
+
+### Profitability Summary
+
+![Profitability Summary](screenshots/profitability_summary.png)
+
+---
+
+### Top Products
+
+![Top Products](screenshots/top_products.png)
+
+---
+
+### Low Margin Products
+
+![Low Margin Products](screenshots/low_margin_products.png)
+
+---
+
+### Detected Patterns
+
+![Detected Patterns](screenshots/detected_patterns.png)
+
+---
+
+### Executive Conclusions
+
+![Executive Conclusions](screenshots/executive_conclusions.png)
+
+---
+
+### Charts
+
+![Charts](screenshots/chart.png)
+
+---
+
 ## 📈 Key Insight
 
 This is not just a script.
